@@ -11,4 +11,4 @@ Find a compiler (I used MSVC) and compile to x86 (32-bit), as Release version (u
 LoadLib also comes with simple UI elements, those being a title menu and a pointer denoting where your typing area is.
 
 ## Enjoy!
-This was very fun to make, aside from the 1 time I lost all the source code to handling.cpp, and had to rewrite it through context clues and old bits of the file I had saved and scattered around.
+This was very fun to make, aside from the 1 time I lost all the source code to handling.cpp, and had to rewrite it through context clues and old bits of the file I had saved and scattered around my computer and various websites.
