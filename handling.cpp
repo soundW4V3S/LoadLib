@@ -30,7 +30,7 @@ void welcome()
 
 // VERIFIERS - For checking that certain things exist
 // --
-// Verifier to see that we have an existing path
+// Verifier to see that we have a path to a valid file
 bool verifyDLLPath(std::wstring path)  // Simply checks if the path is a valid path
 {
 	return std::filesystem::exists(path);
@@ -102,4 +102,5 @@ DWORD getProcID(std::wstring procName) {
 		CloseHandle(hSnap);
 	}
 	return procId;
+
 }
