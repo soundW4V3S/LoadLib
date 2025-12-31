@@ -1,2 +1,13 @@
-# LoadLib
+## LoadLib
+<img width="518" height="162" alt="LoadLib" src="https://github.com/user-attachments/assets/f590dd9c-35d7-4e1b-9867-0f8c2e345eb9" />
 A simple, effective tool to use when needing to inject a DLL at runtime
+
+# What does it do?
+LoadLib uses the LoadLibraryW function on Windows to load a selected DLL at runtime. Though noisy in most anticheat environments, it makes for a useful tool when testing internal hacks on programs with no anticheat.
+
+# How to I create an EXE from this source code?
+Find a compiler (I used MSVC) and compile to x86 (32-bit), as Release version (unless you want to modify and debug this code under Debug, instead). 
+
+LoadLib also comes with simple UI elements, those being a title menu and a pointer denoting where your typing area is.
+
+## Enjoy!
