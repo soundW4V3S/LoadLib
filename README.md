@@ -1,5 +1,5 @@
 ## LoadLib
-<img width="518" height="162" alt="LoadLib" src="https://github.com/user-attachments/assets/f590dd9c-35d7-4e1b-9867-0f8c2e345eb9" />
+<img width="518" height="162" alt="LoadLib" src="https://github.com/user-attachments/assets/f590dd9c-35d7-4e1b-9867-0f8c2e345eb9" /><br>
 A simple, effective tool to use when needing to inject a DLL at runtime
 
 # What does it do?
