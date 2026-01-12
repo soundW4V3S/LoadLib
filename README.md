@@ -3,7 +3,7 @@
 A simple, effective tool to use when needing to inject a DLL at runtime
 
 # What does it do?
-LoadLib uses the LoadLibraryW function on Windows to load a selected DLL at runtime. Though noisy in most anticheat environments, it makes for a useful tool when testing internal hacks on programs with minimal/no anticheat.
+LoadLib uses the LoadLibraryW function on Windows to load a selected DLL at runtime. Though noisy in most anti-tamper/detection environments, it makes for a useful tool when testing internal payloads on programs with minimal/no load checking.
 
 # How do I create an EXE from this source code?
 Find a compiler (I used MSVC) and compile to x86 (32-bit), as Release version (unless you want to modify and debug this code under Debug, instead). 
